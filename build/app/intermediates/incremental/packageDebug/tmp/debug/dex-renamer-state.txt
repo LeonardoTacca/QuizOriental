@@ -1,0 +1,4 @@
+#Mon Jul 19 17:27:12 BRT 2021
+base.0=C\:\\Users\\Leonardo\\Desktop\\Quiz Orientall\\appcaiokib\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
